@@ -54,7 +54,7 @@ Introduction:
    2. Navigate to your folder using the cd command:
       `cd path/to/your/folder`
    4. Start the simulation:
-      `main.py`
+      `python main.py`
    5. Choose a Comparison: The program will prompt you to select one of the three research scenarios defined in our project plan:
       Press 1: HK-Style Cafe (Single Queue vs. Size-Based).
       Press 2: Dim Sum Hall (Coarse vs. Fine-Grained Queues).
