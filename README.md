@@ -3,11 +3,11 @@ this project is to determine, through simulation, which queuing and table config
 
 Project Topic: (C) Restaurant queue simulation
 Team members: 
-Cheung Tsun Ho
-Man Hoi Ling Kaitlyn
-Oey Jade Evangeline
-Tang Chun Lok
-Tang Man Yui
+   - Cheung Tsun Ho
+   - Man Hoi Ling Kaitlyn
+   - Oey Jade Evangeline
+   - Tang Chun Lok
+   - Tang Man Yui
 
 Introduction: 
 1. Background
