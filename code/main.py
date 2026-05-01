@@ -145,6 +145,10 @@ def main():
     cust_file = "customers.txt"
     rest_file = "restaurant.txt"
 
+    while (choice != '1') and (choice != '2') and (choice != '3'):
+        print("Please enter a valid choice.")
+        choice = input("Select comparison to run (1/2/3): ")
+        
     if choice == '1':
         # Variation A: Pure FCFS
         simA = RestaurantSimulation("FCFS", [(1, 10)])
@@ -155,10 +159,12 @@ def main():
         simA = RestaurantSimulation("Coarse", [(1, 6), (7, 20)])
         simB = RestaurantSimulation("Fine", [(1, 2), (3, 4), (5, 6), (7, 20)])
         title = "Comparison 2: Dim Sum Hall"
-    else:
+    elif choice == '3':
         simA = RestaurantSimulation("FCFS", [(1, 20)])
         simB = RestaurantSimulation("VIP", [(1, 20)]) # 10% VIP in logic
         title = "Comparison 3: High-End Restaurant"
+    
+        
 
     # Run A
     print(f"\nRunning {title} - Variation A...")
