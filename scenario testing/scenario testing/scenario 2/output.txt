@@ -1,0 +1,15 @@
+Running Comparison 1: Hong Kong Cafe - Variation A...
+--- Simulation Results (FCFS) ---
+Groups Served: 13
+Average Wait Time: 17.08 units
+Table Utilization: 52.99%
+Service Level (Wait <= 10): 23.08%
+Max Queue Lengths: [10]
+
+Running Comparison 1: Hong Kong Cafe - Variation A...
+--- Simulation Results (FCFS) ---
+Groups Served: 13
+Average Wait Time: 16.92 units
+Table Utilization: 82.11%
+Service Level (Wait <= 10): 38.46%
+Max Queue Lengths: [8]
