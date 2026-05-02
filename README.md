@@ -9,6 +9,8 @@ Team members:
    - Tang Chun Lok
    - Tang Man Yui
 
+Video demo: https://www.youtube.com/watch?v=ub9bSomiB9Y
+
 Introduction: 
 1. Background
    Efficient table management is a critical issue for restaurants, especially in a high-density urban area such as Hong Kong, where space is often limited yet there is a high volume of customers. This tension is most visible during peak hour, where restaurants must balance the trade-off between minimising customer
